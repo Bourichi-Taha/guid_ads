@@ -1,0 +1,225 @@
+{
+  "app_name": "Rabbids Guide",
+  "app_icon": "assets/onboarding1.png",
+  "cover": "assets/splash.png",
+  "main_color": "#FFA451",
+  "contact": "contact@email.com",
+  "about": "https://pub.dev/",
+  "privacy": "https://pub.dev/",
+  "terms": "https://pub.dev/",
+  "ad_priority": [
+    {
+      "network": "AdMob",
+      "priority": 5
+    },
+    {
+      "network": "UnityAds",
+      "priority": 4
+    },
+    {
+      "network": "MetaAds",
+      "priority": 3
+    },
+    {
+      "network": "AppLovin",
+      "priority": 1
+    }
+  ],
+  "intro": [
+    {
+      "title": "Title 1",
+      "description": "Description 1",
+      "icon": "assets/onboarding1.png"
+    },
+    {
+      "title": "Title 2",
+      "description": "Description 2",
+      "icon": "assets/onboarding2.png"
+    },
+    {
+      "title": "Title 3",
+      "description": "Description 3",
+      "icon": "assets/onboarding3.png"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Chapter 1: The American Dream",
+      "summary": "Max Payne is introduced as an NYPD detective whose family is brutally murdered by drug addicts under the influence of a new drug, Valkyr. This chapter follows Max as he goes undercover in the mob to uncover the source of the drug and begins his quest for revenge.",
+      "cover": "assets/chapter.png",
+      "order": 3,
+      "articles": [
+        {
+          "icon": "assets/onboarding2.png",
+          "title": "Introduction to Max Payne",
+          "shortTitle": "Max Payne Intro",
+          "order": 1,
+          "items": [
+            {
+              "index": 2,
+              "type": "text",
+              "content": "Max Payne is a third-person shooter video game developed by Remedy Entertainment. The game is known for its graphic novel-style narrative and innovative use of 'bullet time.'"
+            },
+            {
+              "index": 1,
+              "type": "image",
+              "content": "assets/story.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: A Cold Day in Hell",
+      "summary": "Max continues his search for the source of Valkyr, leading him deeper into the criminal underworld. He confronts various crime syndicates, including the Punchinello crime family, while evading corrupt cops and hitmen.",
+      "cover": "assets/chapter.png",
+      "order": 2,
+      "articles": [
+        {
+          "icon": "assets/onboarding2.png",
+          "title": "Max's Descent into the Underworld",
+          "shortTitle": "Underworld Descent",
+          "order": 2,
+          "items": [
+            {
+              "index": 1,
+              "type": "text",
+              "content": "In this chapter, Max delves deeper into the seedy underworld of New York, encountering deadly enemies and unraveling the dark conspiracy behind Valkyr."
+            },
+            {
+              "index": 2,
+              "type": "image",
+              "content": "assets/story.png"
+            }
+          ]
+        },
+        {
+          "icon": "assets/onboarding2.png",
+          "title": "Max's Descent into the Underworld",
+          "shortTitle": "Underworld Descent",
+          "order": 2,
+          "items": [
+            {
+              "index": 1,
+              "type": "text",
+              "content": "In this chapter, Max delves deeper into the seedy underworld of New York, encountering deadly enemies and unraveling the dark conspiracy behind Valkyr."
+            },
+            {
+              "index": 2,
+              "type": "image",
+              "content": "assets/story.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3: A Bit Closer to Heaven",
+      "summary": "Max closes in on the source of Valkyr, uncovering the involvement of powerful individuals and organizations. His quest for revenge turns into a mission to bring justice to those responsible, culminating in intense confrontations.",
+      "cover": "assets/chapter.png",
+      "order": 1,
+      "articles": [
+        {
+          "icon": "assets/onboarding2.png",
+          "title": "Uncovering the Conspiracy",
+          "shortTitle": "Conspiracy Uncovered",
+          "order": 3,
+          "items": [
+            {
+              "index": 1,
+              "type": "text",
+              "content": "Max's investigation brings him closer to the truth about Valkyr and the forces behind it. The chapter is marked by high-stakes action and the unraveling of the game's central mystery."
+            },
+            {
+              "index": 2,
+              "type": "image",
+              "content": "assets/story.png"
+            }
+          ]
+        },
+        {
+          "icon": "assets/onboarding2.png",
+          "title": "Max's Descent into the Underworld",
+          "shortTitle": "Underworld Descent",
+          "order": 2,
+          "items": [
+            {
+              "index": 1,
+              "type": "text",
+              "content": "In this chapter, Max delves deeper into the seedy underworld of New York, encountering deadly enemies and unraveling the dark conspiracy behind Valkyr."
+            },
+            {
+              "index": 2,
+              "type": "image",
+              "content": "assets/story.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4: The Painkiller",
+      "summary": "In the final chapter, Max confronts the masterminds behind Valkyr in a climactic showdown. The story comes full circle as Max faces his enemies, bringing justice and closure to his tragic tale.",
+      "cover": "assets/chapter.png",
+      "order": 4,
+      "articles": [
+        {
+          "icon": "assets/onboarding2.png",
+          "title": "The Final Showdown",
+          "shortTitle": "Final Showdown",
+          "order": 4,
+          "items": [
+            {
+              "index": 1,
+              "type": "text",
+              "content": "Max's journey concludes in a high-octane battle against those responsible for the death of his family and the spread of Valkyr. The chapter ties up the game's narrative with a powerful and emotional resolution."
+            },
+            {
+              "index": 2,
+              "type": "image",
+              "content": "assets/story.png"
+            },
+            {
+              "index": 1,
+              "type": "text",
+              "content": "Max's journey concludes in a high-octane battle against those responsible for the death of his family and the spread of Valkyr. The chapter ties up the game's narrative with a powerful and emotional resolution."
+            },
+            {
+              "index": 2,
+              "type": "image",
+              "content": "assets/story.png"
+            },
+            {
+              "index": 1,
+              "type": "text",
+              "content": "Max's journey concludes in a high-octane battle against those responsible for the death of his family and the spread of Valkyr. The chapter ties up the game's narrative with a powerful and emotional resolution."
+            },
+            {
+              "index": 2,
+              "type": "image",
+              "content": "assets/story.png"
+            }
+          ]
+        },
+        {
+          "icon": "assets/onboarding2.png",
+          "title": "Max's Descent into the Underworld",
+          "shortTitle": "Underworld Descent",
+          "order": 2,
+          "items": [
+            {
+              "index": 1,
+              "type": "text",
+              "content": "In this chapter, Max delves deeper into the seedy underworld of New York, encountering deadly enemies and unraveling the dark conspiracy behind Valkyr."
+            },
+            {
+              "index": 2,
+              "type": "image",
+              "content": "assets/story.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
